@@ -6,8 +6,8 @@ Web ini sudah sangat menarik tetapi tanpa adanya navbar untuk mempermudah akses 
 # Solution
 Disini saya memberi solusi dari problem diatas dengan menambahkan navbar dan meletakkan logo pada navbar sehingga terlihat rapih dan juga saya menempatkan tulisan "please support us" berpindah di akhiran dari web tersebut
 
-![image] (Screenshot 2024-05-14 024105.png)
+![image] (testt.png)
 
-![image] (Screenshot 2024-05-14 023808.png)
+![image] (test.png)
 
-![image] (Screenshot 2024-05-14 024011.png)
+![image] (testtt.png)
